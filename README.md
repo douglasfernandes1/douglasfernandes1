@@ -1,7 +1,7 @@
 ## 🌱 Opa, tudo bem? Sou Douglas! 🌾
 
 - Sou estudante de Engenharia Agrícola, na Universidade Federal de Lavras (UFLA)
-- Sou apaixonado por programação, inteligência artificial, análise de dados e geoprocessamento.
+- Sou apaixonado por tecnologia, inovação, programação, inteligência artificial, análise de dados e geoprocessamento.
 - Gosto da área de logística, qualidade, mapeamento e qualidade dos procesoss.
 - Fiz parte do Movimento Empresa Júnior e estágio na SLC Agrícola.
 
@@ -20,6 +20,7 @@
 </div>
 
 ### ⚡ Fun facts
+
 - Gosto muito de cafés e já trabalhei como barista.
 - Sou apaixonado por músicas, séries e filmes.
 - Amo correr e praticar exercícios!
